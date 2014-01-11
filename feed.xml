@@ -9,6 +9,7 @@
 <meta content='width=device-width, initial-scale=1.0' name='viewport'>
 <link href="/stylesheets/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="/stylesheets/custom.css" media="screen" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Gafata' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div class='container'>
@@ -167,7 +168,7 @@
 </content>
   </entry>
   <entry>
-    <title>how to convert a muggle</title>
+    <title>当前Saas供应商的比较</title>
     <link rel="alternate" href="/cn/2014/01/11/how-to-convert-a-muggle.html"/>
     <id>/cn/2014/01/11/how-to-convert-a-muggle.html</id>
     <published>2014-01-11T09:30:00Z</published>
