@@ -33,11 +33,6 @@
 <i class='icon-pencil'></i>
 </a>
 </li>
-<li>
-<a href='https://github.com/nekokami'>
-<i class='icon-book'></i>
-</a>
-</li>
 <li class='dropdown' id='preview-menu'>
 <a class='dropdown-toggle' data-toggle='dropdown' href='#'>
 <i class='icon-globe'></i>
@@ -66,50 +61,84 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2012-01-01T00:00:00Z</updated>
+  <updated>2014-01-11T09:30:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>日本語</title>
-    <link rel="alternate" href="/ja/2012/01/01/example-art.html"/>
-    <id>/ja/2012/01/01/example-art.html</id>
-    <published>2012-01-01T00:00:00Z</published>
-    <updated>2012-01-01T00:00:00Z</updated>
+    <title>how to convert a muggle</title>
+    <link rel="alternate" href="/ja/2014/01/11/how-to-convert-a-muggle.html"/>
+    <id>/ja/2014/01/11/how-to-convert-a-muggle.html</id>
+    <published>2014-01-11T09:30:00Z</published>
+    <updated>2014-01-11T09:30:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;日本語の文章&lt;/p&gt;
+    <summary type="html">
 </summary>
-    <content type="html">&lt;p&gt;日本語の文章&lt;/p&gt;
+    <content type="html">
 </content>
   </entry>
   <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="/en/2012/01/01/example-art.html"/>
-    <id>/en/2012/01/01/example-art.html</id>
-    <published>2012-01-01T00:00:00Z</published>
-    <updated>2012-01-01T00:00:00Z</updated>
+    <title>how to convert a muggle</title>
+    <link rel="alternate" href="/en/2014/01/11/how-to-convert-a-muggle.html"/>
+    <id>/en/2014/01/11/how-to-convert-a-muggle.html</id>
+    <published>2014-01-11T09:30:00Z</published>
+    <updated>2014-01-11T09:30:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
-</summary>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+    <summary type="html">&lt;h4 id="the-challenge"&gt;The Challenge&lt;/h4&gt;
+
+&lt;p&gt;It is quite demanding to teach a layman something about programming, not only because of the complexity of the practice itself, also, it is a test on how well the teacher knows the student. Moreover, like any other &lt;strong&gt;“techy”&lt;/strong&gt; things, the...&lt;/p&gt;</summary>
+    <content type="html">&lt;h4 id="the-challenge"&gt;The Challenge&lt;/h4&gt;
+
+&lt;p&gt;It is quite demanding to teach a layman something about programming, not only because of the complexity of the practice itself, also, it is a test on how well the teacher knows the student. Moreover, like any other &lt;strong&gt;“techy”&lt;/strong&gt; things, the classical part of which is hardly appreciated by females. The analogy, that teaching someone in their mid 20s about coding, is just like converting muggles to magicians, remains quite true.&lt;/p&gt;
+
+&lt;h4 id="the-classification"&gt;The Classification&lt;/h4&gt;
+
+&lt;p&gt;People’s attitude towards technology, in general, is ignorant and indifferent, for its misterious and beyond understanding. It works so perfect mostly but breaks down without a reason at times. Out of the ignorance, usually, there is fear. Fear of technology is quite common, while simutaneously driving some of people to explore and research. And amongst which, came our curious student.&lt;/p&gt;
+
+&lt;h4 id="the-teaching"&gt;The Teaching&lt;/h4&gt;
+
+&lt;p&gt;The apprentice is enthusiastic, so I immediately presented the text editor, debugging console in the browser and a few ways to create html tags. Out of my expectation, the apprentice learned fast and created a few web pages quite swiftly in just a few hours. Though the result seemed good, I was worried because without enough practice and clear understanding, the apprentice would soon create something that seems to be correct. Thus, there should be a plan, a roadmap of the training of the apprentice.&lt;/p&gt;
+
+&lt;h4 id="the-list"&gt;The List&lt;/h4&gt;
+&lt;p&gt;Exactly, things that my apprentice should learn before being able to create a mobile application are as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;HTML Tags&lt;/li&gt;
+  &lt;li&gt;Javascript / CoffeeScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Text Editors ( Sublime )&lt;/li&gt;
+  &lt;li&gt;Terminal&lt;/li&gt;
+  &lt;li&gt;Linux Utitlities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="final-thoughts"&gt;Final thoughts&lt;/h4&gt;
+
+&lt;p&gt;Today I presented the apprentice the way to create a blog on github, which is easier than creating a webpage, hoping that she can update the blog on a daily base so that she can get used to the envrioment. It turned out that she needs more time to get used to the tools. Patience is required right now, and I hope this goes well step by step in the coming weeks.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>中文文章</title>
-    <link rel="alternate" href="/cn/2012/01/01/example-art.html"/>
-    <id>/cn/2012/01/01/example-art.html</id>
-    <published>2012-01-01T00:00:00Z</published>
-    <updated>2012-01-01T00:00:00Z</updated>
+    <title>how to convert a muggle</title>
+    <link rel="alternate" href="/cn/2014/01/11/how-to-convert-a-muggle.html"/>
+    <id>/cn/2014/01/11/how-to-convert-a-muggle.html</id>
+    <published>2014-01-11T09:30:00Z</published>
+    <updated>2014-01-11T09:30:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;这是一篇中文文章&lt;/p&gt;
+    <summary type="html">
 </summary>
-    <content type="html">&lt;p&gt;这是一篇中文文章&lt;/p&gt;
+    <content type="html">
 </content>
   </entry>
 </feed>
