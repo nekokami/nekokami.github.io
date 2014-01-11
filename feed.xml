@@ -176,9 +176,118 @@
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">
-</summary>
-    <content type="html">
+    <summary type="html">&lt;h4 id="section"&gt;目录&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;各大平台编年史
+    &lt;ul&gt;
+      &lt;li&gt;2008年
+        &lt;ul&gt;
+          &lt;li&gt;GAE (Google App Engine)&lt;/li&gt;
+          &lt;li&gt;EC2 (Elastic Cloud 2)&lt;/li&gt;
+          &lt;li&gt;Heroku&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2009年
+        &lt;ul&gt;
+          &lt;li&gt;新浪云计算&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2010
+        &lt;ul&gt;
+          &lt;li&gt;百度云计算&lt;/li&gt;
+          &lt;li&gt;阿里云计算&lt;/li&gt;
+  ...&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    <content type="html">&lt;h4 id="section"&gt;目录&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;各大平台编年史
+    &lt;ul&gt;
+      &lt;li&gt;2008年
+        &lt;ul&gt;
+          &lt;li&gt;GAE (Google App Engine)&lt;/li&gt;
+          &lt;li&gt;EC2 (Elastic Cloud 2)&lt;/li&gt;
+          &lt;li&gt;Heroku&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2009年
+        &lt;ul&gt;
+          &lt;li&gt;新浪云计算&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2010
+        &lt;ul&gt;
+          &lt;li&gt;百度云计算&lt;/li&gt;
+          &lt;li&gt;阿里云计算&lt;/li&gt;
+          &lt;li&gt;腾讯云计算&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2011
+        &lt;ul&gt;
+          &lt;li&gt;Parse.com&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;比较标准
+    &lt;ul&gt;
+      &lt;li&gt;用户体验	
+        &lt;ul&gt;
+          &lt;li&gt;收费方式&lt;/li&gt;
+          &lt;li&gt;用户界面&lt;/li&gt;
+          &lt;li&gt;用户文档&lt;/li&gt;
+          &lt;li&gt;免费额度&lt;/li&gt;
+          &lt;li&gt;部署方式&lt;/li&gt;
+          &lt;li&gt;开发环境&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;性能
+        &lt;ul&gt;
+          &lt;li&gt;负载承受能力&lt;/li&gt;
+          &lt;li&gt;延迟&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;可选语言	&lt;/li&gt;
+      &lt;li&gt;可移植性&lt;/li&gt;
+      &lt;li&gt;运营
+        &lt;ul&gt;
+          &lt;li&gt;社区支持&lt;/li&gt;
+          &lt;li&gt;线下活动&lt;/li&gt;
+          &lt;li&gt;线上活动&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Saas变革的驱动力
+    &lt;ul&gt;
+      &lt;li&gt;新的竞争者
+        &lt;ul&gt;
+          &lt;li&gt;Parse.com&lt;/li&gt;
+          &lt;li&gt;etc…&lt;/li&gt;
+          &lt;li&gt;VPS	&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Workflow Scripts
+        &lt;ul&gt;
+          &lt;li&gt;Rails&lt;/li&gt;
+          &lt;li&gt;Yeoman&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Node&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;未来展望
+    &lt;ul&gt;
+      &lt;li&gt;单一语言的Saas&lt;/li&gt;
+      &lt;li&gt;纯API化, Stateless, etc&lt;/li&gt;
+      &lt;li&gt;地缘性Saas	&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
 </feed>
